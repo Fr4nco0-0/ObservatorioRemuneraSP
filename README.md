@@ -53,5 +53,4 @@ Para processar e consolidar dezenas de milhões de registros sem perda de desemp
 `Google Sites`
 
 ## Link para o site
-[https://fr4nco0-0.github.io/ObservatorioRemuneraSP/
-](https://sites.google.com/view/remuneracao-publica/in%C3%ADcio)
+https://sites.google.com/view/remuneracao-publica/in%C3%ADcio
