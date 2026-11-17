@@ -6,7 +6,7 @@
 
 **Sobre o Projeto**
 
-Estudo quantitativo de abordagem descritivo-comparativa desenvolvido na **Fatec Rubens Lara (Santos/SP)**, com o objetivo de investigar simetrias e assimetrias salariais entre servidores públicos ativos, aposentados e pensionistas do Estado de São Paulo, utilizando dados abertos do Portal da Transparência referentes ao período de **junho de 2023 a junho de 2026** (37 competências mensais, totalizando mais de 8 GB em arquivos brutos).
+  Criação e adição do Projeto Integrador num site, para aquisição de métricas e dados, com isso o projeto contempla uma boa parte do artigo em desenvolvimento e um pouco mais. A respeito do trabalho: Estudo quantitativo de abordagem descritivo-comparativa desenvolvido na **Fatec Rubens Lara (Santos/SP)**, com o objetivo de investigar simetrias e assimetrias salariais entre servidores públicos ativos, aposentados e pensionistas do Estado de São Paulo, utilizando dados abertos do Portal da Transparência referentes ao período de **junho de 2023 a junho de 2026** (37 competências mensais, totalizando mais de 8 GB em arquivos brutos).
 
 *Aviso: Este projeto possui finalidade exclusivamente educacional e acadêmica, não representando órgão governamental ou serviço oficial.*
 
