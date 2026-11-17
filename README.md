@@ -50,4 +50,4 @@ Para processar e consolidar dezenas de milhões de registros sem perda de desemp
 
 ## Ferramentas
 
-`DuckDB` • `SQL` • `Apache Parquet` • `Power BI` • `ExploreMyData` • `Excel` • `LibreOffice Calc`
+`Google Sites`
